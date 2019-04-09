@@ -1,0 +1,5 @@
+Authors ordered by first contribution.
+
+John Doe <john.doe@gmail.com>
+Jane Van der Welt <janewelt@gmail.com>
+
